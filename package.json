@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@prisma/client": "4.10.1",
+    "core-js": "^3.8.3",
+    "express": "^4.17.1",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "prisma": "4.10.1"
+  }
+}
