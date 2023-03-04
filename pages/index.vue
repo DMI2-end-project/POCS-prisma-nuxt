@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">fullstack-nuxt yoooffdddd</h1>
+      <h1 class="title">fullstack-nuxt</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
